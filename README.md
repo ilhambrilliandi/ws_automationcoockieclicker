@@ -1,6 +1,6 @@
 # Web Scraping: Automation
 ### Overview:
-Developed a Selenium-based automation script to play the web game "Cookie Clicker," enhancing efficiency through automated clicks and upgrades.
+Developed a Selenium-based automation script to play the web game "[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)", enhancing efficiency through automated clicks and upgrades.
 
 ### Key Steps:
 Selenium Implementation: Automated browser interactions to simulate user behavior effectively.
